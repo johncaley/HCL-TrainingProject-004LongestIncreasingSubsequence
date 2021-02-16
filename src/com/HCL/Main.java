@@ -66,6 +66,7 @@ public class Main {
             SubSequence.add(input.get(i));
         }
 
+
         return SubSequence;
     }
 }
